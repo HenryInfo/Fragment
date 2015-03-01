@@ -5,7 +5,6 @@ import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
 import android.view.Menu;
 
-import com.caxas.fragmentbookbiblio.R;
 
 public class MainActivity extends FragmentActivity {
 
