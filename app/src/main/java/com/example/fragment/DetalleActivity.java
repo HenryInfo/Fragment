@@ -5,8 +5,6 @@ import android.content.res.Configuration;
 import android.os.Bundle;
 import android.widget.TextView;
 
-import com.caxas.fragmentbookbiblio.R;
-
 public class DetalleActivity extends Activity {
 
 
